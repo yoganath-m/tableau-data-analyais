@@ -1,0 +1,7 @@
+DASH BOARD ANALYSIS : ipl analysis
+
+DASH BOARD 1 :: https://public.tableau.com/views/exp7-3/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+DASH BOARD 2 :: https://public.tableau.com/views/exp7-2/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+DASH BOARD 3 :: https://public.tableau.com/views/exp7/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
